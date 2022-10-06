@@ -2,7 +2,8 @@
 // Variables con LET
 
 
-
+// let precio;
+// precio = 21;
 
 // variables en javascript 
 
