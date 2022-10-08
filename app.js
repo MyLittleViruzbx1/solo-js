@@ -1,3 +1,8 @@
+// variables CONST
+
+// const numero = 21;
+// numero = 12;   x   
+
 
 // Variables con LET
 
